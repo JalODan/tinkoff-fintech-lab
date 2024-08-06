@@ -1,1 +1,2 @@
 Hello
+export GOOGLE_APPLICATION_CREDENTIALS=translate-key.json
