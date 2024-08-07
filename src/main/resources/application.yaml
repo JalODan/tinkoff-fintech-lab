@@ -11,7 +11,7 @@ spring:
       schema-locations: classpath:schema.sql
 
   datasource:
-    url: ${SPRING_DATASOURCE_URL}
+    url: jdbc:h2:file:/data/demo
     driver-class-name: org.h2.Driver
     username: sa
     password:

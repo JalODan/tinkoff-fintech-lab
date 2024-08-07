@@ -1,2 +1,2 @@
-Hello
-export GOOGLE_APPLICATION_CREDENTIALS=translate-key.json
+mvn clean package
+java -jar ./target/tinkoff-fintech-lab-0.0.1-SNAPSHOT.jar

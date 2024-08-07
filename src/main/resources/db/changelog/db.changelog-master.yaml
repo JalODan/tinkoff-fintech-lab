@@ -1,3 +1,0 @@
-databaseChangeLog:
-  - include:
-      file: db/changelog/kz/oj/tinkofffintechlab/init.sql
